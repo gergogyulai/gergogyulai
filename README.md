@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![316944493-ff52b15d-69fa-46d8-b539-b7f34e2973b6](https://github.com/gergogyulai/gergogyulai/assets/113334790/12d8843e-f0a7-48c0-ac12-1e4620b1e2e3)
+
+https://github.com/gergogyulai/gergogyulai/assets/113334790/2b566833-2d3c-42f2-9dac-01743ed7cbb6
