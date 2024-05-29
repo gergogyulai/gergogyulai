@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<audio controls>
+  <source src="audio/your-audio-file.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 ![316944493-ff52b15d-69fa-46d8-b539-b7f34e2973b6](https://github.com/gergogyulai/gergogyulai/assets/113334790/12d8843e-f0a7-48c0-ac12-1e4620b1e2e3)
