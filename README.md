@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ## the king is _back_
-
-![asdasdasdasdasdasd]([https://komarev.com/ghpvc/?username=gergogyulai](https://github-readme-stats.vercel.app/api/top-langs/?username=gergogyulai&hide=css,batchfile,glsl&langs_count=5&theme=nord))
-![316944493-ff52b15d-69fa-46d8-b539-b7f34e2973b6](https://github.com/gergogyulai/gergogyulai/assets/113334790/12d8843e-f0a7-48c0-ac12-1e4620b1e2e3)
