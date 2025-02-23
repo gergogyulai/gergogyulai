@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## the king is _back_
+
+I'm Gergo, a developer. I build fast, accessible, user-friendly websites and apps. I build things mainly for the web.
+
+### Some of my more notable projects:
