@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## The king is **_back_** 👑  
 
-I’m Gergo, a developer. I craft fast, accessible, and user-friendly websites and apps.  
+I’m Gergo, a developer. I craft fast, accessible, and user-friendly websites, apps, tools, and extensions.  
 
 ### Some of my more notable projects:  
 *(because of course they’re notable—I built them)*  
