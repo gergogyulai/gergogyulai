@@ -22,3 +22,4 @@ gergogyulai@github:~$ systemctl status
                
 gergogyulai@github:~$
 ```
+[[~/dotfiles](https://github.com/gergogyulai/dotfiles)] [[.vscode-config](https://github.com/gergogyulai/vscode-config)]
