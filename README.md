@@ -1,16 +1,24 @@
-## Hi there 👋
+```
+gergogyulai@github:~$ systemctl status
 
-<!--
-**gergogyulai/gergogyulai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[STACK]
+  RUNTIME   ::  bun, node.js, docker / orbstack
+  FRONTEND  ::  react, next, svelte, tailwind, tanstack
+  BACKEND   ::  hono, bullmq, drizzle, postgresql, dotnet
+  LANGS     ::  typescript, python, rust, go
 
-Here are some ideas to get you started:
+[PROCESSES]
+  PID 101   --   project minato   [scraper/indexer]  (typescript/hono/go)
+  PID 202   --   magneto          [browser-ext]      (svelte/vite)
+  PID 303   --   lysi             [cli-tool]         (rust)
+  PID 404   --   tiktok-exporter  [user-script]      (javascript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ENVIRONMENT]
+  OS_ARCH   :: macos (arm64)
+  TERM      :: ghostty
+  EDITOR    :: vscode / zed
+  TOOLS     :: homebrew / raycast
+  BROWSER   :: helium
+               
+gergogyulai@github:~$
+```
