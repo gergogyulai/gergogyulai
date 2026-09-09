@@ -17,7 +17,7 @@ gergogyulai@github:~$ systemctl status
   OS_ARCH   :: macos (arm64)
   TERM      :: ghostty
   EDITOR    :: vscode / zed
-  TOOLS     :: homebrew / raycast
+  TOOLS     :: homebrew, raycast
   BROWSER   :: helium
                
 gergogyulai@github:~$
