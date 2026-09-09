@@ -1,25 +1,5 @@
-```
-gergogyulai@github:~$ systemctl status
+## README.md
 
-[STACK]
-  RUNTIME   ::  bun, node.js, docker / orbstack
-  FRONTEND  ::  react, next, svelte, tailwind, tanstack
-  BACKEND   ::  hono, bullmq, drizzle, postgresql, dotnet
-  LANGS     ::  typescript, python, rust, go
+I do some open-source work in my free time. Work mainly centered around tools and datahoarding. I also publish other things.
 
-[PROCESSES]
-  PID 101   --   project minato   [scraper/indexer]  (typescript/hono/go)
-  PID 202   --   magneto          [browser-ext]      (svelte/vite)
-  PID 303   --   lysi             [cli-tool]         (rust)
-  PID 404   --   tiktok-exporter  [user-script]      (javascript)
-
-[ENVIRONMENT]
-  OS_ARCH   :: macos (arm64)
-  TERM      :: ghostty
-  EDITOR    :: vscode / zed
-  TOOLS     :: homebrew, raycast
-  BROWSER   :: helium
-               
-gergogyulai@github:~$
-```
-[[~/dotfiles](https://github.com/gergogyulai/dotfiles)] [[.vscode-config](https://github.com/gergogyulai/vscode-config)]
+[[minato](https://github.com/gergogyulai/minato)] [[magneto](https://github.com/gergogyulai/magneto)] [[dotfiles](https://github.com/gergogyulai/dotfiles)] [[.vscode-config](https://github.com/gergogyulai/vscode-config)]]
